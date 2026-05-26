@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:020617,25:0f172a,50:1e3a8a,75:2563eb,100:38bdf8&text=LUIS%20CARRANZA&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Founder%20of%20NovaTec&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,30:0f172a,60:1e3a8a,100:38bdf8&text=LUIS%20CARRANZA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Founder%20of%20NovaTec&descAlignY=58&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=1100&lines=Building+Futuristic+Digital+Experiences;Full+Stack+Developer;AI+Engineer;Founder+of+NovaTec;Vue+%7C+Next.js+%7C+Supabase;Creating+Modern+Systems+with+AI;Designing+Premium+User+Experiences"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Digital+Experiences;Full+Stack+Developer;AI+Engineer;Founder+of+NovaTec;Vue+%7C+Next.js+%7C+Supabase"/>
+
+<br><br>
+
+<img src="https://vzyyrwczlfunekhptqtt.supabase.co/storage/v1/object/public/portafolio/avatars/7ff28910-861f-49cf-92a0-0aa4fd4cecc8.jpg?v=1779764540162" width="180" style="border-radius:50%; border:4px solid #38BDF8;" />
 
 <br><br>
 
@@ -28,23 +32,7 @@
 
 ---
 
-# 🌌 SYSTEM INITIALIZATION
-
-```bash
-> Booting NovaTec Ecosystem...
-
-[██████████████████████] AI Systems
-[██████████████████████] SaaS Platforms
-[██████████████████████] Mobile Applications
-[██████████████████████] Web Systems
-[██████████████████████] UI/UX Experiences
-
-System Status: ONLINE 🚀
-```
-
----
-
-# ⚡ ABOUT ME
+# 👨‍💻 About Me
 
 ```yaml
 name: Luis Carranza
@@ -53,33 +41,30 @@ company: NovaTec
 location: Peru 🇵🇪
 
 specialized_in:
-  - Artificial Intelligence
+  - Web Systems
   - SaaS Platforms
-  - Premium Web Systems
+  - Artificial Intelligence
   - Mobile Applications
-  - UI/UX Modern Interfaces
-  - Software Architecture
+  - Premium UI/UX
 
-currently_building:
-  - AI Systems
-  - Modern Dashboards
-  - Business Platforms
-  - Futuristic Websites
+currently_learning:
+  - Machine Learning
+  - Deep Learning
+  - Software Architecture
 ```
 
-💻 Soy desarrollador enfocado en crear tecnología moderna, elegante y de alto rendimiento.
+💻 Desarrollador enfocado en construir plataformas modernas, sistemas empresariales y experiencias digitales futuristas.
 
-🚀 Me apasiona construir:
-- Plataformas SaaS
-- Sistemas empresariales
-- Soluciones IA
-- Interfaces futuristas
+🚀 Actualmente trabajando en:
+- Sistemas SaaS
 - Aplicaciones móviles
-- Experiencias premium
+- Soluciones IA
+- Dashboards modernos
+- Plataformas empresariales
 
 ---
 
-# 🚀 TECH STACK
+# 🚀 Tech Stack
 
 <div align="center">
 
@@ -89,35 +74,35 @@ currently_building:
 
 ---
 
-# 🌌 FUTURISTIC TERMINAL
+# ⚡ Tech Environment
 
 ```bash
-luis@novatec:~$ initialize_project
+> Initializing NovaTec Ecosystem...
 
-✔ Loading AI Modules...
-✔ Connecting Supabase...
-✔ Initializing Frontend Systems...
-✔ Optimizing UI/UX Experience...
-✔ Deploying futuristic interfaces...
+[██████████████████████] AI Systems
+[██████████████████████] SaaS Platforms
+[██████████████████████] Mobile Applications
+[██████████████████████] Web Systems
+[██████████████████████] UI/UX Experiences
 
-STATUS: READY 🚀
+STATUS: ONLINE 🚀
 ```
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiscarranza13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luiscarranza13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiscarranza13&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiscarranza13&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0"/>
 
 </div>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -127,7 +112,7 @@ STATUS: READY 🚀
 
 ---
 
-# ⚡ ACTIVITY GRAPH
+# ⚡ Activity Graph
 
 <div align="center">
 
@@ -137,7 +122,7 @@ STATUS: READY 🚀
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 Achievements
 
 <div align="center">
 
@@ -147,7 +132,7 @@ STATUS: READY 🚀
 
 ---
 
-# 🌌 FEATURED PROJECTS
+# 🌌 Featured Projects
 
 <table>
 <tr>
@@ -155,13 +140,12 @@ STATUS: READY 🚀
 
 ## 🚀 NovaTec
 
-Modern software company focused on:
-
-- SaaS Platforms
-- AI Systems
-- Business Software
-- Mobile Apps
-- UI/UX Experiences
+Empresa tecnológica enfocada en:
+- Sistemas modernos
+- SaaS
+- Inteligencia Artificial
+- Aplicaciones móviles
+- Desarrollo web premium
 
 ### ⚡ Stack
 
@@ -175,13 +159,12 @@ Next.js + Supabase + Vercel
 
 ## 🏨 Adventur Manager System
 
-Sistema moderno para:
-
+Sistema para:
 - Hoteles
 - Tours
 - Reservas
 - Proveedores
-- Cotizaciones
+- Gestión empresarial
 
 ### ⚡ Stack
 
@@ -191,62 +174,16 @@ Vue 3 + Supabase + Vite
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-## 🤖 AI Assistant Systems
-
-Asistentes inteligentes con:
-
-- Voz IA
-- Automatización
-- APIs
-- Productividad
-
-### ⚡ Stack
-
-```bash
-Node.js + AI + MySQL
-```
-
-</td>
-
-<td width="50%">
-
-## 🌐 Premium Websites
-
-Webs modernas con:
-
-- Framer Motion
-- SEO
-- Animaciones
-- Diseño futurista
-
-### ⚡ Stack
-
-```bash
-Next.js + TailwindCSS
-```
-
-</td>
-</tr>
 </table>
 
 ---
 
-# 🧠 CURRENT FOCUS
+# 🧠 Current Focus
 
 ```yaml
-learning:
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Scalable Architectures
-
 building:
-  - SaaS Platforms
   - AI Systems
+  - SaaS Platforms
   - Mobile Apps
   - Premium Dashboards
 
@@ -256,27 +193,7 @@ vision:
 
 ---
 
-# ⚡ DEV QUOTE
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🎵 NOW PLAYING
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wq2l2i6s7q5o2k2o2o2o2o2o2o&cover_image=true&theme=novatorem&show_offline=true&background_color=020617&interchange=true&bar_color=38bdf8&bar_color_cover=false"/>
-
-</div>
-
----
-
-# 🌎 CONNECT WITH ME
+# 🌎 Connect With Me
 
 <div align="center">
 
@@ -296,7 +213,7 @@ vision:
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -306,12 +223,10 @@ vision:
 
 ---
 
-# 🌌 FUTURE IS NOW
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Code+with+vision.;Build+with+purpose.;Create+the+future.;Powered+by+NovaTec."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Code+with+vision.;Build+with+purpose.;Create+the+future."/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:38bdf8,50:0f172a,100:020617&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:38bdf8,50:0f172a,100:020617&section=footer"/>
